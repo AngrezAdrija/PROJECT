@@ -6,7 +6,7 @@
 
 .navbar{
     height:60px;
-    background-color: #0f1111;
+    background-color: #ffffff;
     color: white;
     display:flex; /*to manage all navigation bar item in a same line*/
     align-items: center;
@@ -20,7 +20,7 @@
 }
 
 .logo{
-    background-image: url("amazon_logo.png"); /*to add logo image*/
+    background-image: url("logo1.png"); /*to add logo image*/
     background-size: cover;
     height:60px;
     width:100%;
@@ -52,6 +52,7 @@
 .address{
     font-size: 14px;
     margin-left: 0.5rem;
+    color: #000;
 }
 
 .nav-search{
@@ -100,14 +101,17 @@
 
 .nav-first{
     font-size:0.7rem;
+    color: #eb5353;
 }
 
 .nav-second{
     font-size:0.9rem;
+    color: #eb5353;
 }
 
 .nav-cart i{
     font-size: 30px;
+    color: #eb5353;
 }
 
 .panel{
